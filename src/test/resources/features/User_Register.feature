@@ -2,7 +2,7 @@ Feature: User - Register
 
   As a user
   I want to register
-  So that I will hava a account to login Destimate
+  So that I will hava a account to login to the Destimate
 
   @Register @TC_AA_User_1
   Scenario: Register (TC_AA_User_1) - Verify success to create new account with valid endpoint and valid request body

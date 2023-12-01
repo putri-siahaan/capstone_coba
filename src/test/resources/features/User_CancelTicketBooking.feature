@@ -1,7 +1,7 @@
 Feature: User - Cancel Ticket Booking
 
   As a user
-  I want to cancel my ticket
+  I want to cancel my ticket booking
   So that I don't need to pay for the ticket
 
   @CancelTicketBooking @TC_AA_User_109
