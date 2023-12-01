@@ -13,7 +13,7 @@ public class User_CancelTicketBooking {
 
     @Step("User input endpoint with valid invoice number to cancel booking ticket")
     public String userInputEndpointWIthValidInvoiceNumberToCancelTicket(){
-        return url + "user/ticket/1701419226-510";
+        return url + "user/ticket/1701419819-983";
     }
 
     @Step("User request with HTTP method DELETE to cancel booking ticket and click Send Button")
