@@ -2,7 +2,7 @@ Feature: User - Cancel Ticket Booking
 
   As a user
   I want to cancel my ticket booking
-  So that I don't need to pay for the ticket
+  So that I don't need to pay for a ticket
 
   @CancelTicketBooking @TC_AA_User_109
   Scenario: Cancel Ticket Booking (TC_AA_User_109) - Verify success to cancel booking ticket with valid invoice_number
